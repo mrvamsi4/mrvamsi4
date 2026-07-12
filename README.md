@@ -6,27 +6,27 @@
 
 <!-- ===================== ANIMATED TYPING ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=70&lines=%F0%9F%91%8B+Welcome+to+My+Digital+Universe;%F0%9F%92%BB+Frontend+Developer;%F0%9F%93%8A+Aspiring+Data+Analyst;%F0%9F%93%88+Power+BI+Dashboard+Developer;%F0%9F%90%8D+Python+Enthusiast;%F0%9F%9A%80+Building+Ideas+Into+Digital+Reality" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=%F0%9F%91%8B+Welcome+to+My+Digital+Universe;%F0%9F%92%BB+Frontend+Developer;%F0%9F%93%8A+Aspiring+Data+Analyst;%F0%9F%93%88+Power+BI+Dashboard+Developer;%F0%9F%90%8D+Python+Enthusiast;%F0%9F%9A%80+Building+Ideas+Into+Digital+Reality" alt="Typing Animation"/>
 
 <br>
 
 <!-- ===================== SOCIAL BUTTONS ===================== -->
 
 <a href="https://www.linkedin.com/in/vamsinath">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:mrvamsi690@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/mrvamsi4">
-<img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mrvamsi4&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=mrvamsi4&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge" alt="Profile Visitors"/>
 
 </div>
 
@@ -44,12 +44,12 @@
 
 # 👨‍💻 About Me
 
-```javascript
+```javascript id="hhoyay"
 const vamsinath = {
 
     name: "Vamsinath Reddy Karnati",
 
-    role: [
+    roles: [
         "Frontend Developer",
         "Aspiring Data Analyst",
         "Power BI Developer",
@@ -58,18 +58,49 @@ const vamsinath = {
     ],
 
     education: {
-        degree: "B.Tech — Computer Science and Engineering",
+        degree: "B.Tech in Computer Science and Engineering",
         university: "Vel Tech University, Chennai",
         graduation: "May 2028"
     },
 
     technicalSkills: {
-        frontend: ["HTML", "CSS", "JavaScript"],
-        programming: ["Python"],
-        analytics: ["Power BI", "Excel", "Pandas", "NumPy"],
-        database: ["MySQL"],
-        design: ["Canva", "Adobe After Effects"],
-        deployment: ["GitHub", "Firebase", "Netlify", "Vercel"]
+        frontend: [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+
+        programming: [
+            "Python"
+        ],
+
+        dataAnalytics: [
+            "Microsoft Power BI",
+            "Microsoft Excel",
+            "Pandas",
+            "NumPy"
+        ],
+
+        database: [
+            "MySQL"
+        ],
+
+        design: [
+            "Canva",
+            "Adobe After Effects"
+        ],
+
+        developmentTools: [
+            "Git",
+            "GitHub",
+            "Visual Studio Code"
+        ],
+
+        deployment: [
+            "Firebase",
+            "Netlify",
+            "Vercel"
+        ]
     },
 
     currentlyLearning: [
@@ -80,7 +111,7 @@ const vamsinath = {
     ],
 
     careerGoal:
-        "Become a Professional Data Analyst and BI Developer",
+        "Become a Professional Data Analyst and Business Intelligence Developer",
 
     status:
         "Learning • Building • Designing • Growing 🚀"
@@ -95,41 +126,41 @@ const vamsinath = {
 
 ### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Development Skills"/>
 
 <br><br>
 
 ### 🐍 Programming and Database
 
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Programming and Database Skills"/>
 
 <br><br>
 
 ### 📊 Data Analytics and Business Intelligence
 
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
 
-<img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
 
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
 <br><br>
 
 ### 🛠️ Development and Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify&theme=dark" alt="Development and Deployment Tools"/>
 
 <br><br>
 
 ### 🎨 Creative Design
 
-<img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 
-<img src="https://img.shields.io/badge/ADOBE%20AFTER%20EFFECTS-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/ADOBE%20AFTER%20EFFECTS-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects"/>
 
 </div>
 
@@ -197,7 +228,7 @@ An interactive business-intelligence dashboard designed to:
 
 A modern resume-building platform that allows users to create professional and ATS-friendly resumes.
 
-✔ Multiple resume templates
+✔ Multiple professional templates
 ✔ Live resume preview
 ✔ Intelligent content suggestions
 ✔ Resume customization
@@ -274,45 +305,9 @@ A futuristic personal portfolio featuring:
 
 <div align="center">
 
-# 📊 GitHub Command Center
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrvamsi4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=mrvamsi4&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvamsi4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
-<div align="center">
-
 # 📈 Contribution Galaxy
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Achievement Chamber
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mrvamsi4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🐍 My Contribution Journey
-
-<img width="100%" src="https://raw.githubusercontent.com/mrvamsi4/mrvamsi4/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 
 </div>
 
@@ -361,19 +356,19 @@ A futuristic personal portfolio featuring:
 
 <a href="https://www.linkedin.com/in/vamsinath">
 
-<img src="https://img.shields.io/badge/LINKEDIN-VAMSINATH%20REDDY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-VAMSINATH%20REDDY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 
 </a>
 
 <a href="mailto:mrvamsi690@gmail.com">
 
-<img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 
 </a>
 
 <a href="https://github.com/mrvamsi4">
 
-<img src="https://img.shields.io/badge/GITHUB-MRVAMSI4-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-MRVAMSI4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </a>
 
@@ -389,6 +384,6 @@ A futuristic personal portfolio featuring:
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24" alt="Footer"/>
 
 </div>
