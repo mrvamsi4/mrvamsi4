@@ -1,32 +1,36 @@
 <div align="center">
 
-# Hi 👋, I'm Vamsinath Reddy Karnati
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,40:6C63FF,70:8A2BE2,100:FF00FF&height=230&section=header&text=VAMSINATH%20REDDY%20KARNATI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Data%20Analyst%20%7C%20Power%20BI%20Developer&descSize=17&descAlignY=55"/>
 
-### Frontend Developer • Data Analyst • Power BI Developer • Python Enthusiast
-
-<p>
-Turning data into meaningful insights and ideas into impactful digital experiences.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Aspiring+Data+Analyst;Power+BI+Dashboard+Developer;Python+Enthusiast;Freelance+Designer;Building+Creative+Digital+Solutions" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+to+My+Digital+World+%F0%9F%9A%80;Frontend+Developer+%F0%9F%92%BB;Aspiring+Data+Analyst+%F0%9F%93%8A;Power+BI+Dashboard+Developer+%F0%9F%93%88;Python+Enthusiast+%F0%9F%90%8D;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Typing Animation"/>
 
 <br>
 
 <a href="https://www.linkedin.com/in/vamsinath">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mrvamsi690@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mrvamsi4">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mrvamsi4&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=mrvamsi4&label=PROFILE+VISITORS&color=6C63FF&style=for-the-badge"/>
+
+</div>
+
+---
+
+<h2 align="center">🌌 Explore My Digital Universe</h2>
+
+<div align="center">
+
+> ### “Transforming raw data into meaningful insights and creative ideas into powerful digital experiences.”
 
 </div>
 
@@ -35,121 +39,132 @@ Turning data into meaningful insights and ideas into impactful digital experienc
 ## 👨‍💻 About Me
 
 ```javascript
-const vamsinath = {
-    education: "B.Tech in Computer Science and Engineering",
-    university: "Vel Tech University, Chennai",
-    graduation: "May 2028",
+const developer = {
+    name: "Vamsinath Reddy Karnati",
 
     roles: [
         "Frontend Developer",
         "Aspiring Data Analyst",
         "Power BI Developer",
+        "Python Enthusiast",
         "Freelance Designer"
     ],
 
-    technologies: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Python",
-        "MySQL",
-        "Power BI"
-    ],
+    education: {
+        degree: "B.Tech in Computer Science and Engineering",
+        university: "Vel Tech University",
+        graduation: "May 2028"
+    },
+
+    technologies: {
+        frontend: ["HTML", "CSS", "JavaScript"],
+        analytics: ["Power BI", "Excel", "Pandas", "NumPy"],
+        programming: ["Python"],
+        database: ["MySQL"],
+        design: ["Canva", "Adobe After Effects"],
+        deployment: ["GitHub", "Firebase", "Netlify", "Vercel"]
+    },
 
     currentlyLearning: [
-        "Data Analytics",
         "Machine Learning",
+        "Advanced Data Analytics",
         "Business Intelligence",
         "Advanced Python"
     ],
 
-    goal: "Become a skilled Data Analyst and BI Developer",
+    goal: "Become a Professional Data Analyst and BI Developer",
 
-    openTo: [
-        "Internships",
-        "Freelance Projects",
-        "Collaborations",
-        "Open-Source Contributions"
-    ]
+    status: "Learning • Building • Creating • Growing 🚀"
 };
 ```
 
-* 🎓 Pursuing a **B.Tech in Computer Science and Engineering** at **Vel Tech University**
-* 💻 Building modern, responsive, and interactive frontend applications
-* 📊 Creating interactive dashboards and business reports using **Microsoft Power BI**
-* 🐍 Analyzing and transforming data using **Python, Pandas, and NumPy**
-* 🗄️ Working with databases and data management using **MySQL**
-* 🎨 Creating engaging and user-focused digital designs
-* 🌱 Currently learning **Machine Learning, Data Analytics, and Business Intelligence**
-* 🤝 Open to **internships, freelance projects, collaborations, and learning opportunities**
-* 🎯 Career goal: Become a professional **Data Analyst and Business Intelligence Developer**
-
 ---
 
-## 🛠️ Technical Skills
+<h2 align="center">⚡ My Technology Universe</h2>
 
 <div align="center">
 
-### 💻 Frontend Development
+### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Skills"/>
-
-<br>
-
-### 📊 Data Analytics and Programming
-
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Data Analytics Skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+### 📊 Data Analytics and Business Intelligence
 
-<br>
-
-### 🎨 Design, Development and Deployment
-
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,vercel,netlify&theme=dark" alt="Development Tools"/>
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects"/>
+### 🐍 Programming and Data Science
+
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<br><br>
+
+### 🛠️ Development and Deployment Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify&theme=dark"/>
+
+<br><br>
+
+### 🎨 Creative Design Tools
+
+<img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/AFTER%20EFFECTS-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Digital Creations</h2>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 📊 AI Placement Readiness Analyzer
+<h3 align="center">📊 AI Placement Readiness Analyzer</h3>
 
-An AI-powered platform that evaluates students' technical skills, aptitude, projects, resume quality, and interview readiness.
+An intelligent AI-powered platform designed to evaluate students based on:
 
-The platform generates personalized placement scores, skill-gap analysis, career recommendations, and improvement roadmaps.
+✔ Technical skills
+✔ Aptitude performance
+✔ Resume quality
+✔ Academic projects
+✔ Interview readiness
 
-**Technologies**
+The system generates personalized placement scores, identifies skill gaps, and provides career-improvement recommendations.
 
-`Python` `Machine Learning` `Data Analysis` `Power BI`
+**Technology Stack**
+
+`Python` `Machine Learning` `Power BI` `Data Analytics`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📈 Power BI Analytics Dashboard
+<h3 align="center">📈 Power BI Analytics Dashboard</h3>
 
-An interactive business-intelligence dashboard designed to analyze data, monitor important KPIs, identify trends, and generate actionable insights.
+An interactive business-intelligence dashboard designed to:
 
-**Technologies**
+✔ Track important KPIs
+✔ Analyze business performance
+✔ Identify trends and patterns
+✔ Generate actionable insights
+✔ Support data-driven decisions
 
-`Microsoft Power BI` `Excel` `Data Visualization` `DAX`
+**Technology Stack**
+
+`Power BI` `Microsoft Excel` `DAX` `Data Visualization`
 
 </td>
 
@@ -159,13 +174,19 @@ An interactive business-intelligence dashboard designed to analyze data, monitor
 
 <td width="50%" valign="top">
 
-### 🤖 AI Resume Builder
+<h3 align="center">🤖 AI Resume Builder</h3>
 
-A responsive web application that helps students and professionals create modern, professional, and ATS-friendly resumes.
+A modern resume-building platform that allows users to create professional and ATS-friendly resumes.
 
-Features include intelligent content suggestions, multiple templates, live preview, and resume customization.
+Features:
 
-**Technologies**
+✔ Multiple professional templates
+✔ Live resume preview
+✔ Intelligent content suggestions
+✔ Resume customization
+✔ Responsive user interface
+
+**Technology Stack**
 
 `HTML` `CSS` `JavaScript` `Firebase`
 
@@ -173,154 +194,166 @@ Features include intelligent content suggestions, multiple templates, live previ
 
 <td width="50%" valign="top">
 
-### 🌐 Interactive 3D Developer Portfolio
+<h3 align="center">🌐 Interactive 3D Portfolio</h3>
 
-A modern and responsive personal portfolio featuring interactive animations, 3D visual effects, project showcases, smooth scrolling, and engaging user interactions.
+A futuristic personal portfolio featuring:
 
-**Technologies**
+✔ Interactive 3D elements
+✔ Neon visual effects
+✔ Smooth animations
+✔ Responsive design
+✔ Project showcases
+✔ Modern user experience
 
-`HTML` `CSS` `JavaScript` `3D Animations`
+**Technology Stack**
+
+`HTML` `CSS` `JavaScript` `Three.js`
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-## 🎓 Education
+<h2 align="center">🎓 Education Journey</h2>
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-### 🏫 Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+### 🏛️ Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
 
-**Bachelor of Technology — Computer Science and Engineering**
+🎓 **Bachelor of Technology**
 
-📅 **June 2024 – May 2028**
+💻 **Computer Science and Engineering**
+
+📅 **June 2024 — May 2028**
 
 📍 **Chennai, Tamil Nadu, India**
 
-🎯 Academic interests include:
-
-* Artificial Intelligence
-* Machine Learning
-* Data Analytics
-* Python Programming
-* Business Intelligence
-* Web Development
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrvamsi4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vamsinath GitHub Statistics"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=mrvamsi4&theme=tokyonight&hide_border=true" alt="Vamsinath GitHub Streak"/>
-
 <br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvamsi4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+**Academic Interests**
+
+`Artificial Intelligence` • `Machine Learning` • `Data Analytics`
+
+`Python Programming` • `Business Intelligence` • `Web Development`
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+<h2 align="center">📊 GitHub Command Center</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrvamsi4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=8A2BE2&text_color=FFFFFF&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=mrvamsi4&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00FF&currStreakLabel=00F5FF"/>
+
+<br><br>
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvamsi4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+<h2 align="center">📈 Contribution Galaxy</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mrvamsi4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Profile Trophies"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&bg_color=0D1117&color=00F5FF&line=8A2BE2&point=FF00FF&area=true&hide_border=true"/>
 
 </div>
 
-> 💡 GitHub trophies appear only after your account meets achievement requirements. If this image does not load, the external trophy service may be temporarily unavailable.
-
 ---
 
-## 🐍 Contribution Journey
+<h2 align="center">🏆 Achievement Chamber</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mrvamsi4/mrvamsi4/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mrvamsi4&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+> GitHub trophies are generated using an external service. If the image is temporarily unavailable, it may appear again after the service is restored.
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mrvamsi4/mrvamsi4/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+<h2 align="center">🎯 Mission 2026–2028</h2>
 
-* 📊 Build advanced and interactive **Power BI dashboards**
-* 🐍 Improve my **Python and data-analysis skills**
-* 🤖 Learn and implement **Machine Learning models**
-* 💻 Create modern and responsive **frontend applications**
-* 🚀 Contribute to meaningful **open-source projects**
-* 💼 Secure a **Data Analyst or Business Intelligence internship**
-* 🌐 Build innovative projects that solve real-world problems
+<div align="center">
 
----
+| 🚀 Mission                         | 📈 Progress |
+| :--------------------------------- | :---------: |
+| Master Power BI and DAX            |   🟦🟦🟦⬜⬜  |
+| Advanced Python Programming        |   🟦🟦🟦⬜⬜  |
+| Learn Machine Learning             |   🟦🟦⬜⬜⬜   |
+| Build Real-World Data Projects     |   🟦🟦🟦⬜⬜  |
+| Contribute to Open Source          |   🟦🟦⬜⬜⬜   |
+| Become a Professional Data Analyst |   🟦🟦🟦⬜⬜  |
 
-## 🤝 Open to Opportunities
-
-I am interested in:
-
-* 💼 Data Analyst internships
-* 📊 Power BI and dashboard-development projects
-* 🌐 Frontend and web-development projects
-* 🎨 Freelance design opportunities
-* 🤖 Artificial Intelligence and Machine Learning collaborations
-* 🚀 Open-source contributions
-* 🤝 Professional networking and collaborations
+</div>
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center">🤝 Open for Opportunities</h2>
+
+<div align="center">
+
+💼 **Data Analyst Internships**
+
+📊 **Power BI Dashboard Projects**
+
+🌐 **Frontend Development Projects**
+
+🎨 **Freelance Design Opportunities**
+
+🤖 **AI and Machine Learning Collaborations**
+
+🚀 **Open-Source Contributions**
+
+</div>
+
+---
+
+<h2 align="center">🌐 Connect With My Digital Network</h2>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vamsinath">
-<img src="https://img.shields.io/badge/LinkedIn-Vamsinath%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-VAMSINATH%20REDDY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mrvamsi690@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-mrvamsi690%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/GMAIL-CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mrvamsi4">
-<img src="https://img.shields.io/badge/GitHub-mrvamsi4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-MRVAMSI4-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ### 💡 “Transforming data into insights and ideas into impactful digital solutions.”
 
 <br>
 
-⭐ If you like my projects, consider giving them a star!
+⭐ **Explore my repositories and star the projects you like!**
 
-### Thanks for visiting my GitHub profile! 👨‍💻
+### Thanks for exploring my digital universe 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6C63FF,100:8A2BE2&height=120&section=footer" width="100%" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,40:8A2BE2,70:6C63FF,100:00F5FF&height=150&section=footer"/>
 
 </div>
