@@ -1,221 +1,155 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Vamsinath%20Reddy%20Karnati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=60&animation=fadeIn"/>
+# Hi 👋, I'm Vamsinath Reddy Karnati
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Frontend+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;Microsoft+Power+BI+Developer+%F0%9F%93%88;Python+Developer+%F0%9F%90%8D;B.Tech+Computer+Science+Student+%F0%9F%8E%93;Building+Modern+and+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing Animation"/>
+### Frontend Developer • Data Analyst • Power BI Developer • Python Enthusiast
 
-<br><br>
+<p>
+Turning data into meaningful insights and ideas into impactful digital experiences.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Frontend+Developer;Aspiring+Data+Analyst;Power+BI+Dashboard+Developer;Python+Enthusiast;Freelance+Designer;Building+Creative+Digital+Solutions" alt="Typing Animation" />
+
+<br>
 
 <a href="https://www.linkedin.com/in/vamsinath">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:mrvamsi690@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/mrvamsi4">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mrvamsi4&label=PROFILE+VIEWS&color=00C7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/mrvamsi4?label=FOLLOWERS&style=for-the-badge&color=7B2FFF"/>
+<img src="https://komarev.com/ghpvc/?username=mrvamsi4&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```javascript
 const vamsinath = {
-    fullName: "Vamsinath Reddy Karnati",
+    education: "B.Tech in Computer Science and Engineering",
+    university: "Vel Tech University, Chennai",
+    graduation: "May 2028",
 
     roles: [
         "Frontend Developer",
-        "Data Analyst",
+        "Aspiring Data Analyst",
         "Power BI Developer",
-        "Python Developer",
         "Freelance Designer"
     ],
 
-    education: {
-        degree: "B.Tech in Computer Science and Engineering",
-        university: "Vel Tech University",
-        graduation: "May 2028"
-    },
-
-    location: "Chennai, Tamil Nadu, India",
-
-    technicalSkills: [
+    technologies: [
         "HTML",
         "CSS",
         "JavaScript",
         "Python",
-        "Power BI",
-        "Data Analysis",
-        "Pandas",
-        "NumPy",
-        "MySQL"
+        "MySQL",
+        "Power BI"
     ],
 
     currentlyLearning: [
-        "React.js",
-        "Advanced JavaScript",
-        "Advanced Power BI",
-        "Machine Learning"
+        "Data Analytics",
+        "Machine Learning",
+        "Business Intelligence",
+        "Advanced Python"
     ],
 
-    careerGoal: "Frontend Developer and Data Analyst",
+    goal: "Become a skilled Data Analyst and BI Developer",
 
     openTo: [
         "Internships",
         "Freelance Projects",
-        "Open-Source Contributions",
-        "Professional Collaborations"
+        "Collaborations",
+        "Open-Source Contributions"
     ]
 };
-
-console.log("Welcome to my GitHub Profile! 🚀");
 ```
 
+* 🎓 Pursuing a **B.Tech in Computer Science and Engineering** at **Vel Tech University**
+* 💻 Building modern, responsive, and interactive frontend applications
+* 📊 Creating interactive dashboards and business reports using **Microsoft Power BI**
+* 🐍 Analyzing and transforming data using **Python, Pandas, and NumPy**
+* 🗄️ Working with databases and data management using **MySQL**
+* 🎨 Creating engaging and user-focused digital designs
+* 🌱 Currently learning **Machine Learning, Data Analytics, and Business Intelligence**
+* 🤝 Open to **internships, freelance projects, collaborations, and learning opportunities**
+* 🎯 Career goal: Become a professional **Data Analyst and Business Intelligence Developer**
+
 ---
+
+## 🛠️ Technical Skills
 
 <div align="center">
 
-# ⚡ What I Do
+### 💻 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Skills"/>
+
+<br>
+
+### 📊 Data Analytics and Programming
+
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" alt="Data Analytics Skills"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+
+<br>
+
+### 🎨 Design, Development and Deployment
+
+<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,vercel,netlify&theme=dark" alt="Development Tools"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects"/>
 
 </div>
 
-<table>
+---
 
+## 🚀 Featured Projects
+
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 💻 Frontend Development
+### 📊 AI Placement Readiness Analyzer
 
-* 🌐 Build modern and responsive websites
-* 🎨 Create attractive user interfaces
-* 📱 Develop mobile-friendly web applications
-* ✨ Add smooth animations and interactions
-* ⚡ Focus on performance and usability
+An AI-powered platform that evaluates students' technical skills, aptitude, projects, resume quality, and interview readiness.
 
-</td>
+The platform generates personalized placement scores, skill-gap analysis, career recommendations, and improvement roadmaps.
 
-<td width="50%" valign="top">
+**Technologies**
 
-### 📊 Data Analytics
-
-* 📈 Create interactive Power BI dashboards
-* 🧹 Clean and transform raw datasets
-* 🔍 Discover meaningful data insights
-* 📉 Build reports and data visualizations
-* 🐍 Analyze data using Python
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-# 🛠️ Technologies and Tools
-
-### 💻 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vscode&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Responsive_Design-00C7B7?style=for-the-badge&logo=cssdesignawards&logoColor=white"/>
-
-### 📊 Data Analytics and Business Intelligence
-
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data_Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
-
-### 🚀 Development and Deployment Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify&theme=dark"/>
-
-### 🎨 Design Tools
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 Featured Projects
-
-</div>
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 AI Placement Readiness Analyzer</h3>
-
-An intelligent web application that evaluates students' technical skills, aptitude, projects, and interview readiness.
-
-#### ✨ Features
-
-✔ Placement-readiness score
-✔ Technical skill analysis
-✔ Personalized recommendations
-✔ Skill-gap identification
-✔ Interactive analytics dashboard
-
-#### 🛠️ Technology
-
-`Python` `Machine Learning` `Power BI`
+`Python` `Machine Learning` `Data Analysis` `Power BI`
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">📊 Power BI Analytics Dashboard</h3>
+### 📈 Power BI Analytics Dashboard
 
-An interactive business-intelligence dashboard that transforms complex datasets into useful insights.
+An interactive business-intelligence dashboard designed to analyze data, monitor important KPIs, identify trends, and generate actionable insights.
 
-#### ✨ Features
+**Technologies**
 
-✔ Interactive data visualizations
-✔ Business KPI tracking
-✔ Dynamic reports and filters
-✔ Trend identification
-✔ Actionable business insights
-
-#### 🛠️ Technology
-
-`Power BI` `Microsoft Excel` `Data Analysis`
+`Microsoft Power BI` `Excel` `Data Visualization` `DAX`
 
 </td>
 
@@ -225,19 +159,13 @@ An interactive business-intelligence dashboard that transforms complex datasets 
 
 <td width="50%" valign="top">
 
-<h3 align="center">📄 AI Resume Builder</h3>
+### 🤖 AI Resume Builder
 
-A responsive web application that helps students create professional and ATS-friendly resumes.
+A responsive web application that helps students and professionals create modern, professional, and ATS-friendly resumes.
 
-#### ✨ Features
+Features include intelligent content suggestions, multiple templates, live preview, and resume customization.
 
-✔ Multiple professional templates
-✔ AI content suggestions
-✔ Real-time resume preview
-✔ Custom colors and sections
-✔ Resume PDF download
-
-#### 🛠️ Technology
+**Technologies**
 
 `HTML` `CSS` `JavaScript` `Firebase`
 
@@ -245,152 +173,154 @@ A responsive web application that helps students create professional and ATS-fri
 
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 Interactive 3D Portfolio</h3>
+### 🌐 Interactive 3D Developer Portfolio
 
-A premium personal portfolio website with modern visual effects and interactive animations.
+A modern and responsive personal portfolio featuring interactive animations, 3D visual effects, project showcases, smooth scrolling, and engaging user interactions.
 
-#### ✨ Features
+**Technologies**
 
-✔ Interactive 3D effects
-✔ Glassmorphism user interface
-✔ Smooth scrolling animations
-✔ Dark modern design
-✔ Fully responsive layout
-
-#### 🛠️ Technology
-
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `3D Animations`
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-<div align="center">
-
-# 📊 GitHub Analytics
-
-<br>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrvamsi4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" alt="Vamsinath GitHub Statistics"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=mrvamsi4&theme=tokyonight&hide_border=true&border_radius=15" alt="Vamsinath GitHub Streak"/>
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvamsi4&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Vamsinath Most Used Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Contribution Activity
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&theme=tokyo-night&hide_border=true&radius=15&area=true" alt="Vamsinath GitHub Contribution Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Achievements
-
-<br>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mrvamsi4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="Vamsinath GitHub Trophies"/>
-
-<br><br>
-
-> GitHub trophies are generated from public GitHub activity. More public repositories, commits, pull requests, stars, followers, and contributions will unlock additional achievements.
-
-</div>
-
----
-
-# 🎓 Education
+## 🎓 Education
 
 <table>
-
 <tr>
+<td>
 
-<td width="15%" align="center">
+### 🏫 Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
 
-## 🎓
+**Bachelor of Technology — Computer Science and Engineering**
+
+📅 **June 2024 – May 2028**
+
+📍 **Chennai, Tamil Nadu, India**
+
+🎯 Academic interests include:
+
+* Artificial Intelligence
+* Machine Learning
+* Data Analytics
+* Python Programming
+* Business Intelligence
+* Web Development
 
 </td>
-
-<td width="85%">
-
-### Bachelor of Technology in Computer Science and Engineering
-
-**Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology**
-
-📍 Chennai, Tamil Nadu, India
-
-📅 June 2024 – May 2028
-
-🎯 Focus: Frontend Development • Data Analytics • Artificial Intelligence • Machine Learning
-
-</td>
-
 </tr>
-
 </table>
 
 ---
 
-<div align="center">
-
-# 🎯 Current Goals
-
-</div>
-
-* 🚀 Build advanced and responsive frontend applications
-* ⚛️ Improve my React.js development skills
-* 📊 Create professional Microsoft Power BI dashboards
-* 🐍 Develop real-world Python data-analysis projects
-* 🤖 Learn Machine Learning and Artificial Intelligence
-* 🌐 Contribute to open-source projects
-* 💼 Secure a Frontend Development or Data Analytics internship
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
 
-# 🤝 Connect With Me
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrvamsi4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vamsinath GitHub Statistics"/>
 
-I am open to **frontend-development internships, data-analytics opportunities, freelance projects, open-source contributions, and professional collaborations.**
+<img width="49%" src="https://streak-stats.demolab.com?user=mrvamsi4&theme=tokyonight&hide_border=true" alt="Vamsinath GitHub Streak"/>
 
 <br>
 
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvamsi4&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mrvamsi4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub Profile Trophies"/>
+
+</div>
+
+> 💡 GitHub trophies appear only after your account meets achievement requirements. If this image does not load, the external trophy service may be temporarily unavailable.
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mrvamsi4/mrvamsi4/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+* 📊 Build advanced and interactive **Power BI dashboards**
+* 🐍 Improve my **Python and data-analysis skills**
+* 🤖 Learn and implement **Machine Learning models**
+* 💻 Create modern and responsive **frontend applications**
+* 🚀 Contribute to meaningful **open-source projects**
+* 💼 Secure a **Data Analyst or Business Intelligence internship**
+* 🌐 Build innovative projects that solve real-world problems
+
+---
+
+## 🤝 Open to Opportunities
+
+I am interested in:
+
+* 💼 Data Analyst internships
+* 📊 Power BI and dashboard-development projects
+* 🌐 Frontend and web-development projects
+* 🎨 Freelance design opportunities
+* 🤖 Artificial Intelligence and Machine Learning collaborations
+* 🚀 Open-source contributions
+* 🤝 Professional networking and collaborations
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/vamsinath">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Vamsinath%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:mrvamsi690@gmail.com">
-<img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-mrvamsi690%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/mrvamsi4">
-<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-mrvamsi4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br><br>
+</div>
 
-## 💡 “Building engaging frontend experiences and transforming data into meaningful insights.”
+---
+
+<div align="center">
+
+### 💡 “Transforming data into insights and ideas into impactful digital solutions.”
 
 <br>
 
-⭐ **If you like my projects, consider giving them a star!**
+⭐ If you like my projects, consider giving them a star!
 
-<br>
+### Thanks for visiting my GitHub profile! 👨‍💻
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=6,11,20&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:6C63FF,100:8A2BE2&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
