@@ -22,7 +22,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=mrvamsi4&label=PROFILE+VIEWS&color=00C7FF&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/mrvamsi4?label=FOLLOWERS&style=for-the-badge&color=7B2FFF"/>
 
 </div>
 
