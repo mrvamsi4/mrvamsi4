@@ -1,305 +1,259 @@
 <div align="center">
 
-# 👋 Hi, I'm **Vamsinath Reddy**
-### 🚀 Frontend Developer • Data Analyst • Power BI Developer • AI Enthusiast
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Vamsinath%20Reddy%20Karnati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=60&animation=fadeIn"/>
 
-![](https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub;Building+Modern+Web+Apps;Power+BI+%7C+SQL+%7C+Python;Always+Learning+Something+New)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Frontend+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;Microsoft+Power+BI+Developer+%F0%9F%93%88;Python+Developer+%F0%9F%90%8D;B.Tech+Computer+Science+Student+%F0%9F%8E%93;Building+Modern+and+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing Animation"/>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF00FF&height=220&section=header&text=Welcome+to+My+Universe&fontSize=40&fontColor=ffffff)
+<br><br>
+
+<a href="https://www.linkedin.com/in/vamsinath">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mrvamsi690@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mrvamsi4">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mrvamsi4&label=PROFILE+VIEWS&color=00C7FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/mrvamsi4?label=FOLLOWERS&style=for-the-badge&color=7B2FFF"/>
 
 </div>
 
-## 🌟 About Me
-- 🎓 B.Tech CSE Student
-- 💻 Passionate Frontend Developer
-- 📊 Data Analyst & Power BI Developer
-- 🌱 Learning SQL, Python, React & AI
-- 🎯 Goal: Become a Full-Stack AI Engineer
+---
 
-## 🛠 Tech Stack
-- HTML CSS JavaScript React
-- Python Java SQL MySQL
-- Power BI Excel Git GitHub VS Code
+# 👨‍💻 About Me
 
-## 📊 GitHub Widgets
-- Stats: https://github-readme-stats.vercel.app/api?username=mrvamsi4&show_icons=true&theme=tokyonight
-- Streak: https://github-readme-streak-stats.herokuapp.com/?user=mrvamsi4&theme=tokyonight
-- Top Languages: https://github-readme-stats.vercel.app/api/top-langs/?username=mrvamsi4&layout=compact&theme=tokyonight
-- Activity Graph: https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&theme=tokyo-night
-- Trophies: https://github-profile-trophy.vercel.app/?username=mrvamsi4&theme=tokyonight
+```javascript
+const vamsinath = {
+    fullName: "Vamsinath Reddy Karnati",
 
-## 🚀 Featured Projects
-- AI Resume Builder
-- Student Marks Dashboard
-- Sales Dashboard
-- Restaurant Website
-- 3D Portfolio
-- College Voting System
-- Placement Readiness Analyzer
+    roles: [
+        "Frontend Developer",
+        "Data Analyst",
+        "Power BI Developer",
+        "Python Developer",
+        "Freelance Designer"
+    ],
 
-## 🌌 3D Developer Journey
-- ✨ Level 1: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 2: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 3: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 4: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 5: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 6: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 7: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 8: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 9: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 10: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 11: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 12: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 13: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 14: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 15: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 16: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 17: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 18: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 19: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 20: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 21: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 22: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 23: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 24: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 25: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 26: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 27: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 28: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 29: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 30: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 31: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 32: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 33: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 34: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 35: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 36: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 37: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 38: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 39: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 40: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 41: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 42: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 43: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 44: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 45: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 46: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 47: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 48: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 49: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 50: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 51: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 52: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 53: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 54: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 55: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 56: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 57: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 58: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 59: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 60: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 61: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 62: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 63: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 64: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 65: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 66: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 67: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 68: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 69: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 70: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 71: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 72: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 73: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 74: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 75: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 76: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 77: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 78: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 79: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 80: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 81: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 82: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 83: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 84: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 85: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 86: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 87: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 88: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 89: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 90: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 91: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 92: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 93: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 94: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 95: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 96: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 97: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 98: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 99: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 100: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 101: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 102: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 103: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 104: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 105: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 106: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 107: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 108: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 109: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 110: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 111: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 112: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 113: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 114: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 115: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 116: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 117: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 118: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 119: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 120: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 121: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 122: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 123: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 124: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 125: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 126: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 127: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 128: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 129: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 130: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 131: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 132: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 133: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 134: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 135: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 136: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 137: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 138: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 139: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 140: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 141: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 142: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 143: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 144: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 145: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 146: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 147: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 148: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 149: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 150: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 151: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 152: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 153: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 154: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 155: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 156: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 157: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 158: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 159: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 160: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 161: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 162: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 163: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 164: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 165: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 166: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 167: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 168: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 169: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 170: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 171: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 172: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 173: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 174: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 175: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 176: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 177: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 178: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 179: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 180: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 181: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 182: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 183: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 184: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 185: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 186: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 187: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 188: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 189: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 190: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 191: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 192: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 193: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 194: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 195: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 196: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 197: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 198: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 199: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 200: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 201: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 202: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 203: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 204: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 205: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 206: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 207: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 208: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 209: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 210: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 211: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 212: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 213: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 214: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 215: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 216: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 217: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 218: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 219: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 220: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 221: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 222: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 223: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 224: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 225: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 226: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 227: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 228: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 229: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 230: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 231: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 232: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 233: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 234: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 235: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 236: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 237: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 238: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 239: Continuously improving coding, UI design, analytics, and problem-solving.
-- ✨ Level 240: Continuously improving coding, UI design, analytics, and problem-solving.
+    education: {
+        degree: "B.Tech in Computer Science and Engineering",
+        university: "Vel Tech University",
+        graduation: "May 2028"
+    },
 
-## 🌍 Connect
-- GitHub: https://github.com/mrvamsi4
-- LinkedIn: https://www.linkedin.com/in/vamsinath/
-- Email: mrvamsi690@gmail.com
+    location: "Chennai, Tamil Nadu, India",
 
-![](https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00F5FF,50:8A2BE2,100:FF00FF&height=150)
-<!-- Premium filler line 287 -->
-<!-- Premium filler line 288 -->
-<!-- Premium filler line 289 -->
-<!-- Premium filler line 290 -->
-<!-- Premium filler line 291 -->
-<!-- Premium filler line 292 -->
-<!-- Premium filler line 293 -->
-<!-- Premium filler line 294 -->
-<!-- Premium filler line 295 -->
-<!-- Premium filler line 296 -->
-<!-- Premium filler line 297 -->
-<!-- Premium filler line 298 -->
-<!-- Premium filler line 299 -->
-<!-- Premium filler line 300 -->
-<!-- Premium filler line 301 -->
-<!-- Premium filler line 302 -->
-<!-- Premium filler line 303 -->
-<!-- Premium filler line 304 -->
+    technicalSkills: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "Microsoft Power BI",
+        "Data Analysis",
+        "Pandas",
+        "NumPy",
+        "MySQL"
+    ],
+
+    currentlyLearning: [
+        "React.js",
+        "Advanced JavaScript",
+        "Advanced Power BI",
+        "Machine Learning"
+    ],
+
+    careerGoal: "Frontend Developer and Data Analyst",
+
+    openTo: [
+        "Internships",
+        "Freelance Projects",
+        "Open-Source Contributions",
+        "Professional Collaborations"
+    ]
+};
+
+console.log("Welcome to my GitHub Profile! 🚀");
+<div align="center">
+⚡ What I Do
+</div> <table> <tr> <td width="50%" valign="top">
+💻 Frontend Development
+🌐 Build modern and responsive websites
+🎨 Create attractive user interfaces
+📱 Develop mobile-friendly web applications
+✨ Add smooth animations and interactions
+⚡ Focus on performance and usability
+</td> <td width="50%" valign="top">
+📊 Data Analytics
+📈 Create interactive Power BI dashboards
+🧹 Clean and transform raw datasets
+🔍 Discover meaningful data insights
+📉 Build reports and data visualizations
+🐍 Analyze data using Python
+</td> </tr> </table>
+<div align="center">
+🛠️ Technologies and Tools
+💻 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Responsive_Design-00C7B7?style=for-the-badge&logo=cssdesignawards&logoColor=white"/> <br>
+📊 Data Analytics and Business Intelligence
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Data_Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <br>
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/> <br>
+🚀 Development and Deployment Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel,netlify&theme=dark"/> <br>
+🎨 Design Tools
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/> </div>
+<div align="center">
+🚀 Featured Projects
+</div> <table> <tr> <td width="50%" valign="top"> <h3 align="center">🤖 AI Placement Readiness Analyzer</h3>
+
+An intelligent application that evaluates students' technical skills, aptitude, projects, and interview readiness.
+
+✨ Features
+
+✔ Placement-readiness score
+✔ Technical skill analysis
+✔ Personalized recommendations
+✔ Skill-gap identification
+✔ Interactive analytics dashboard
+
+🛠️ Technologies
+
+Python Machine Learning Power BI
+
+</td> <td width="50%" valign="top"> <h3 align="center">📊 Power BI Analytics Dashboard</h3>
+
+An interactive business-intelligence dashboard that transforms complex datasets into useful insights.
+
+✨ Features
+
+✔ Interactive data visualizations
+✔ Business KPI tracking
+✔ Dynamic reports and filters
+✔ Trend identification
+✔ Actionable business insights
+
+🛠️ Technologies
+
+Power BI Microsoft Excel Data Analysis
+
+</td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">📄 AI Resume Builder</h3>
+
+A responsive web application that helps students create professional and ATS-friendly resumes.
+
+✨ Features
+
+✔ Multiple professional templates
+✔ AI content suggestions
+✔ Real-time resume preview
+✔ Custom colors and sections
+✔ Resume PDF download
+
+🛠️ Technologies
+
+HTML CSS JavaScript Firebase
+
+</td> <td width="50%" valign="top"> <h3 align="center">🌐 Interactive 3D Portfolio</h3>
+
+A premium personal portfolio website with modern visual effects and interactive animations.
+
+✨ Features
+
+✔ Interactive 3D effects
+✔ Glassmorphism user interface
+✔ Smooth scrolling animations
+✔ Modern dark design
+✔ Fully responsive layout
+
+🛠️ Technologies
+
+HTML CSS JavaScript
+
+</td> </tr> </table>
+<div align="center">
+📊 GitHub Analytics
+<br>
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=mrvamsi4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Vamsinath GitHub Statistics" />
+
+<img width="48%" src="https://streak-stats.demolab.com/?user=mrvamsi4&theme=tokyonight&hide_border=true" alt="Vamsinath GitHub Streak" />
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mrvamsi4&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Vamsinath Most Used Languages" />
+
+</div>
+<div align="center">
+📈 Contribution Activity
+<br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&theme=tokyo-night&hide_border=true&radius=15&area=true" alt="Vamsinath GitHub Contribution Graph" />
+
+</div>
+<div align="center">
+🏆 GitHub Achievements
+<br>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mrvamsi4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="Vamsinath GitHub Achievements" />
+
+<br><br>
+
+More public repositories, commits, pull requests, stars, followers, and open-source contributions can unlock additional GitHub achievements.
+
+</div>
+🎓 Education
+<table> <tr> <td width="15%" align="center">
+🎓
+</td> <td width="85%">
+Bachelor of Technology in Computer Science and Engineering
+
+Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+
+📍 Chennai, Tamil Nadu, India
+
+📅 June 2024 – May 2028
+
+🎯 Focus: Frontend Development • Data Analytics • Artificial Intelligence • Machine Learning
+
+</td> </tr> </table>
+<div align="center">
+🎯 Current Goals
+</div>
+🚀 Build advanced and responsive frontend applications
+⚛️ Improve my React.js development skills
+📊 Create professional Microsoft Power BI dashboards
+🐍 Develop real-world Python data-analysis projects
+🤖 Learn Machine Learning and Artificial Intelligence
+🌐 Contribute to open-source projects
+💼 Secure a Frontend Development or Data Analytics internship
+<div align="center">
+🤝 Connect With Me
+
+I am open to frontend-development internships, data-analytics opportunities, freelance projects, open-source contributions, and professional collaborations.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/vamsinath"> <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:mrvamsi690@gmail.com"> <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/mrvamsi4"> <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<br><br>
+
+💡 “Building engaging frontend experiences and transforming data into meaningful insights.”
+<br>
+
+⭐ If you like my projects, consider giving them a star!
+
+<br> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=6,11,20&section=footer"/> </div> ```
