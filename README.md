@@ -1,148 +1,66 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24&text=Vamsinath%20Reddy%20Karnati&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Vamsinath Reddy Karnati
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Power+BI+Developer;Data+Analyst;Python+Developer;Frontend+Developer;Always+Building+Something+Awesome"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Freelance+Designer;Microsoft+Power+BI+Developer;Data+Analyst;Python+Developer;Frontend+Developer;Always+Learning+New+Technologies"/>
-
-<br><br>
-
-<p>
-<a href="https://linkedin.com/in/vamsinath">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mrvamsi690@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mrvamsi4">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=mrvamsi4&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/mrvamsi4?label=Followers&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/mrvamsi4?label=Stars&style=for-the-badge&color=yellow"/>
+<img src="https://komarev.com/ghpvc/?username=mrvamsi4&style=for-the-badge&color=brightgreen"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 💎 About Me
 
-```python
-class VamsinathReddy:
+```yaml
+Name: Vamsinath Reddy Karnati
 
-    def __init__(self):
+Role:
+  - Data Analyst
+  - Power BI Developer
+  - Python Developer
+  - Frontend Developer
 
-        self.name = "Vamsinath Reddy Karnati"
+Location:
+  Chennai, India
 
-        self.role = [
-            "Power BI Developer",
-            "Data Analyst",
-            "Python Developer",
-            "Freelance Designer"
-        ]
+Currently Learning:
+  - SQL
+  - Machine Learning
+  - Power BI DAX
+  - Streamlit
 
-        self.location = "Chennai, India"
-
-        self.education = "B.Tech Computer Science"
-
-        self.learning = [
-            "Advanced SQL",
-            "Machine Learning",
-            "Power BI",
-            "Python"
-        ]
-
-        self.email = "mrvamsi690@gmail.com"
-
-    def goals(self):
-
-        return [
-            "Become Data Analyst",
-            "Master Power BI",
-            "Build AI Products",
-            "Open Source Contributor"
-        ]
+Goal:
+  Become a Top Data Analyst
 ```
 
 ---
 
-# 🚀 Tech Stack
-
-### Programming
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-### Libraries
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-</p>
-
----
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=vercel"/>
-
-<img src="https://skillicons.dev/icons?i=netlify"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
+# ⚡ Tech Arsenal
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrvamsi4&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvamsi4&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,github,vscode,firebase,vercel,netlify"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=mrvamsi4&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrvamsi4&show_icons=true&theme=radical"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvamsi4&layout=compact&theme=radical"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=mrvamsi4&theme=radical"/>
 
 </p>
 
@@ -152,7 +70,7 @@ class VamsinathReddy:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&theme=react-dark"/>
 
 </p>
 
@@ -162,7 +80,7 @@ class VamsinathReddy:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mrvamsi4&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mrvamsi4&theme=radical&column=4"/>
 
 </p>
 
@@ -170,90 +88,72 @@ class VamsinathReddy:
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Resume Builder | Smart ATS Resume Generator |
-| 📊 Sales Dashboard | Power BI Dashboard |
-| 📈 Student Marks Dashboard | Excel Dashboard |
+| 🚀 Project | Description |
+|------------|-------------|
+| 🤖 AI Resume Builder | ATS Resume Generator |
+| 📊 Power BI Sales Dashboard | Interactive Dashboard |
+| 📈 Student Marks Dashboard | Excel Analytics |
 | 🌐 Portfolio Website | Responsive Portfolio |
-| 🍽 Restaurant Website | Modern Restaurant UI |
+| 🍽 Restaurant Website | UI + Responsive Design |
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Current Mission
 
-- 📊 Power BI Dashboards
-- 📈 Data Analysis
-- 🐍 Python Automation
-- 🗄 SQL
-- 🤖 Machine Learning
-- 🌐 Frontend Development
-
----
-
-# 📚 Currently Learning
-
-- Advanced SQL
-- Power BI DAX
-- Machine Learning
-- Statistics
-- Python Libraries
-- Streamlit
+- Build 50+ Data Analytics Projects
+- Master Power BI
+- Learn Advanced SQL
+- Learn Machine Learning
+- Contribute to Open Source
 
 ---
 
-# 🎓 Education
+# 📚 Learning
 
-### 🎓 Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science & Technology
+```text
+██████████████░░░░ SQL
 
-Bachelor of Technology
+████████████░░░░░ Power BI
 
-Computer Science Engineering
+██████████░░░░░░ Machine Learning
 
-2024 — 2028
+███████████████░ Python
 
----
-
-# 🏅 Achievements
-
-🏆 Power BI Dashboards
-
-📊 Excel Dashboards
-
-💻 Web Development
-
-🎨 Freelance Designer
-
-🤖 AI Resume Builder
+███████████████░ HTML/CSS
+```
 
 ---
 
-# 📫 Contact
+# 🌐 Connect With Me
 
-📧 **Email**
+<p align="center">
 
-mrvamsi690@gmail.com
+<a href="https://linkedin.com/in/vamsinath">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-🌍 **Location**
+<a href="mailto:mrvamsi690@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-Chennai, Tamil Nadu, India
+<a href="https://github.com/mrvamsi4">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-💼 **LinkedIn**
-
-https://linkedin.com/in/vamsinath
+</p>
 
 ---
 
-# 💡 Quote
+# 💬 Favorite Quote
 
-> **"Turning Data into Decisions, Ideas into Reality."**
+> "Data tells a story. My job is to make everyone understand it."
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, don't forget to Star my repositories!
+### ⭐ Thanks for visiting!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6a11cb,100:2575fc"/>
 
 </div>
