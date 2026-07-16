@@ -255,33 +255,20 @@ HTML CSS JavaScript
 
 <br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrvamsi4&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800" alt="Vamsinath GitHub Statistics"/>
+
 
 <img width="48%" src="https://streak-stats.demolab.com?user=mrvamsi4&theme=tokyonight&hide_border=true&border_radius=15" alt="Vamsinath GitHub Streak"/>
 
 <br><br>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvamsi4&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Vamsinath Most Used Languages"/>
 
 </div>
 
-<div align="center">
 
-📈 Contribution Activity
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrvamsi4&theme=tokyo-night&hide_border=true&radius=15&area=true" alt="Vamsinath GitHub Contribution Graph"/>
-
-</div>
 
 <div align="center">
 
 🏆 GitHub Achievements
-
-<br>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mrvamsi4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="Vamsinath GitHub Trophies"/>
-
-<br><br>
 
 GitHub trophies are generated from public GitHub activity. More public repositories, commits, pull requests, stars, followers, and contributions will unlock additional achievements.
 
