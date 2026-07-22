@@ -1,5 +1,4 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Vamsinath%20Reddy%20Karnati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=60&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Frontend+Developer+%F0%9F%92%BB;Data+Analyst+%F0%9F%93%8A;Microsoft+Power+BI+Developer+%F0%9F%93%88;Python+Developer+%F0%9F%90%8D;B.Tech+Computer+Science+Student+%F0%9F%8E%93;Building+Modern+and+Data-Driven+Solutions+%F0%9F%9A%80" alt="Typing Animation"/>
