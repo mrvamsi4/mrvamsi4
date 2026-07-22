@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Vamsinath%20Reddy%20Karnati&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Data%20Analyst%20%7C%20Power%20BI%20Developer&descAlignY=60&animation=fadeIn"/>
 
